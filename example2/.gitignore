@@ -1,0 +1,5 @@
+# for my build
+*build
+
+# for qt creator config project
+*.user

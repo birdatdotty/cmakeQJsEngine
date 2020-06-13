@@ -1,0 +1,7 @@
+# for my build
+*build
+
+# for qt creator config project
+*.user
+*/*.user
+example2/CMakeLists.txt.user
