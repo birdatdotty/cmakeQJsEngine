@@ -1,0 +1,5 @@
+#!/bin/sh
+mkdir build && cd $_
+cmake -DCMAKE_INSTALL_PREFIX:PATH=$HOME/myLib ..
+make
+make install
